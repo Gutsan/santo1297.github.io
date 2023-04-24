@@ -48,3 +48,6 @@ body {
     }
   
   }
+#portafolio .image-top:hover{
+  height: 500px;
+}
